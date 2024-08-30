@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://toysfebs.github.io/sitemap/sitemap.txt
